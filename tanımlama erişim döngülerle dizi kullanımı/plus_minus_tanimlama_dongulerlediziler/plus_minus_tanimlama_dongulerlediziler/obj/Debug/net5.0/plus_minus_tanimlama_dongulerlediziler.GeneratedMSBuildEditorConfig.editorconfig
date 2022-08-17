@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = plus_minus_tanimlama_dongulerlediziler
+build_property.ProjectDir = C:\Users\Sercan\Desktop\patika.dev\tanımlama erişim döngülerle dizi kullanımı\plus_minus_tanimlama_dongulerlediziler\plus_minus_tanimlama_dongulerlediziler\
